@@ -3,7 +3,6 @@ package tools;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
-
 public class RandomNumbersGenerator {
     private int length, amount;
     public RandomNumbersGenerator(int length, int amount) {
